@@ -1,4 +1,4 @@
-# Azure MLOps Talk
+# Azure MLOps Learning
 
 (https://www.youtube.com/watch?v=pLd7xF0z5Zs)
 
